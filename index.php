@@ -41,6 +41,7 @@
       <form action="pileczki.html">
         <input type="submit" value="Przejdz do pileczek" class="btn">
       </form>
+
     </div>
 
 

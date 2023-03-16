@@ -2,7 +2,11 @@
     font-family:'Poppins', sans-serif;
 }
 
-
+.game-area{
+    width: 500;
+    height: 500;
+    border: 1px solid black;
+}
 
 
 
