@@ -36,6 +36,14 @@
             <input type="submit" value="Dodaj nowy kontak" class="btn" onclick="loadDoc2()">
             <input type="submit" value="Sprawdź kontakt" class="btn" onclick="loadDoc()">
         </div>
+  </div>
+    <div class="pileczki-button">
+      <form action="pileczki.html">
+        <input type="submit" value="Przejdz do pileczek" class="btn">
+      </form>
+    </div>
+
+
 
 <script>
 
