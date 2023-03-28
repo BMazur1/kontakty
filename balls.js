@@ -114,9 +114,9 @@ function gameLoop() {
 addBallButton.addEventListener("click", addBall)
 startStopButton.addEventListener("click", function () {
   if (isRunning) {
-    stopGame()
+    stopGame();
   } else {
-    startGame()
+    startGame();
   }
 });
 
